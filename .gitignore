@@ -1,0 +1,16 @@
+# Generated data (recreate with: python data/generate_data.py)
+data/raw/
+data/retail.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
