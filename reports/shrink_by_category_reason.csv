@@ -1,0 +1,33 @@
+category,reason,units_lost,shrink_value
+Bakery,Expiry,2025,3747.93
+Bakery,Damage,704,1332.67
+Bakery,Unknown/Theft,619,1254.37
+Bakery,Admin Error,394,717.83
+Beverages,Damage,403,1157.6
+Beverages,Admin Error,267,731.14
+Beverages,Expiry,229,619.25
+Beverages,Unknown/Theft,188,536.26
+Dairy,Expiry,1431,4630.27
+Dairy,Damage,695,2256.8
+Dairy,Unknown/Theft,372,1158.14
+Dairy,Admin Error,303,983.5
+Frozen,Damage,481,2277.99
+Frozen,Unknown/Theft,265,1215.72
+Frozen,Expiry,178,899.64
+Frozen,Admin Error,186,811.22
+Fruit & Veg,Expiry,3263,5550.96
+Fruit & Veg,Damage,1115,1918.42
+Fruit & Veg,Unknown/Theft,925,1506.19
+Fruit & Veg,Admin Error,580,948.62
+Grocery,Damage,509,2418.33
+Grocery,Unknown/Theft,285,1410.15
+Grocery,Admin Error,213,1069.82
+Grocery,Expiry,229,1049.75
+Household,Damage,417,1694.84
+Household,Unknown/Theft,232,795.02
+Household,Admin Error,155,620.8
+Household,Expiry,104,397.26
+Personal Care,Unknown/Theft,849,5909.1
+Personal Care,Damage,233,1638.11
+Personal Care,Admin Error,207,1427.37
+Personal Care,Expiry,95,665.74

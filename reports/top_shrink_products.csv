@@ -1,0 +1,11 @@
+product_id,product_name,category,units_lost,shrink_value
+P056,Personal Care Item 01,Personal Care,249,2477.55
+P058,Personal Care Item 03,Personal Care,284,2192.48
+P060,Personal Care Item 05,Personal Care,333,2104.56
+P010,Bakery Item 02,Bakery,540,1603.8
+P008,Dairy Item 08,Dairy,389,1583.23
+P057,Personal Care Item 02,Personal Care,227,1550.41
+P023,Fruit & Veg Item 08,Fruit & Veg,654,1510.74
+P001,Dairy Item 01,Dairy,378,1466.64
+P009,Bakery Item 01,Bakery,559,1464.58
+P022,Fruit & Veg Item 07,Fruit & Veg,706,1447.3
